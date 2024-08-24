@@ -1,0 +1,12 @@
+# Data
+path: B:\hand_key_point_finetuned\dataset
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test: images/test
+
+# Keypoints
+kpt_shape: [21, 3]  # [number of keypoints, number of dim]
+
+# Classes
+names:
+  0: hand

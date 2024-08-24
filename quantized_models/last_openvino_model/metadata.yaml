@@ -1,0 +1,17 @@
+description: Ultralytics YOLOv8n-pose model trained on config.yaml
+author: Ultralytics
+date: '2024-08-16T11:32:20.425754'
+version: 8.2.63
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: pose
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: hand
+kpt_shape:
+- 21
+- 3
