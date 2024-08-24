@@ -39,7 +39,7 @@ The project aims to recognize hand gestures by first detecting keypoints using a
 
 1. Clone the repository:
 
-- `git clone https://github.com/your-username/hand-keypoint-detection-classification.git`
+- `git clone https://github.com/your-username/key_point_detecttion_finetuning_with_image_classification`
 - `cd hand-keypoint-detection-classification`
 
 2. Set up the virtual environment:
